@@ -7,4 +7,6 @@ git status
 git branch -m master main
 git init -b main
 git add note.c
+git log
+git commit -m "commands"
 */
