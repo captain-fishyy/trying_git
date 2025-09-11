@@ -13,4 +13,5 @@ git commit -m "commands"
 即先git add note.c再git commit -m ""
 git commit -a -m ""跳过staging area
 git diff 换行符也算diff，是与staging area相比的diffadd之后就无diff
+git diff --staged 
 */
