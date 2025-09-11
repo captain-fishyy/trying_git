@@ -14,4 +14,5 @@ git commit -m "commands"
 git commit -a -m ""跳过staging area
 git diff 换行符也算diff，是与staging area相比的diffadd之后就无diff
 git diff --staged 
+git add . 添加所有的文件
 */
