@@ -12,4 +12,5 @@ git commit -m "commands"
 提交更新：先把它提交到staging area再commit（否则报错changes not staged for commit）
 即先git add note.c再git commit -m ""
 git commit -a -m ""跳过staging area
+git diff 换行符也算diff，是与staging area相比的diffadd之后就无diff
 */
