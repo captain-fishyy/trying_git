@@ -16,4 +16,8 @@ git diff 换行符也算diff，是与staging area相比的diffadd之后就无dif
 git diff --staged 
 git add . 添加所有的文件
 git clone https://github.com/torvalds/linux.git
+mkdir git_course
+dir
+echo "#git_course demo" >> README.md
+cat README.md
 */
