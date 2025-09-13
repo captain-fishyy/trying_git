@@ -20,4 +20,16 @@ mkdir git_course
 dir
 echo "#git_course demo" >> README.md
 cat README.md
+ssh-keygen -o
+cd ~
+git remote add origin git@github.com:captain-fishyy/git_course.git
+git push -u origin main
+git push
+pwd
+git remote -v
+git remote remove origin
+tag version
+git tag
+git tag -a v1.1 -m "first release"
+git show v1.1
 */
